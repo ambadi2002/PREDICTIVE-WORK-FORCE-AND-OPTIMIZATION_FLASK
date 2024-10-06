@@ -1,7 +1,3 @@
-Here's a README file for your employee attrition prediction project based on the template you provided:
-
----
-
 # Predictive Workforce and Optimization
 
 ## 📊 Project Phases
@@ -73,7 +69,3 @@ For any inquiries or feedback, feel free to reach out:
 
 - **Email**: ambadidashing@gmail.com
 - **Phone**: +91-8943875358
-
----
-
-Feel free to modify any sections as needed!
